@@ -6,6 +6,7 @@
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
     color: #017B08;
+    font-family: 'Playfair Display', serif;
     font-weight: 700;
     text-align:center;
 }
